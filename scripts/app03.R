@@ -61,7 +61,8 @@ plotData = ggplot(weatherData) +
         axis.title.x=element_text(size=15, face="italic", 
                                   color=rgb(red=.8, green=.3, blue=0)),
         plot.subtitle=element_text(face="bold.italic",
-                                   color ="brown")) +
+                                   color ="brown"),
+        aspect.ratio = 1/1) +
   # default confidence level is 95%
   geom_smooth(mapping=aes(x=abs(tempDept), y=windSpeed), 
               method="lm",
