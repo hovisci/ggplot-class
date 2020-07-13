@@ -28,18 +28,7 @@ summerStart = as.Date("06-21-2016", format="%m-%d-%Y");
 fallStart = as.Date("09-21-2016", format="%m-%d-%Y");
 winterStart = as.Date("12-21-2016", format="%m-%d-%Y");
 
-for(i in 1:length(theDate)) # go through each date
-  
-  # if the date falls with the spring season
-  if(theDate[i] >= springStart && theDate[i] < summerStart)
-  {
-    season[i] = "Spring";
-  }
 
-else if(theDate[i] >= winterStart || theDate[i] < springStart)
-{
-  season[i] = "Winter";
-}
 
 #### Part 3: Create a season vector based on theDates vector
 for(i in 1:length(theDate)) # go through each date
