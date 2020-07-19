@@ -1,0 +1,15 @@
+1) What was your level of comfort with the lesson/application?
+
+Very comfortable
+
+2) What areas of the lesson/application confused or still confuses you?
+
+Figuring out the coordinates of the annotation always gives me trouble and I do a lot of trial and error.
+
+3) Give an application of the lesson for your area of study.
+
+Useful for creating visualization categories/directions for mapping, not just boxpltos.
+
+4) Give an extension to the material that you would like to see.
+
+Something other than boxplot
