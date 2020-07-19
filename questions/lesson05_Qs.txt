@@ -1,0 +1,17 @@
+1) What was your level of comfort with the lesson/application?
+
+Very comfortable
+
+2) What areas of the lesson/application confused or still confuses you?
+
+"facet" and what it actually does
+Also not exactly sure what "~" and "." mean in the coding context
+ 
+3) Give an application of the lesson for your area of study.
+
+I plot data for differnt countries all of the time, so I was actually using 
+"facet" the other day to compare frequencies of a categorical variable
+
+4) Give an extension to the material that you would like to see.
+
+More detail/working with "facet"
