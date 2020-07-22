@@ -7,6 +7,19 @@ Very comfortable
 "facet" and what it actually does
 Also not exactly sure what "~" and "." mean in the coding context
  
+    facet_grid( facet= biMonth ~ .)
+    
+    The ~ separates the x and y axis (y-axis first) 
+    The . is sort of a placeholder that says "do nothing" because we
+    do not want to facet the x-axis.  This is not a common way in 
+    programming to say "do nothing" -- just the way it is done here
+    
+    So, the line is saying to:
+    - create multiple plots on the y-axis using biMonth to
+      factor your y variable (in this example, y is humidity count)
+    - do nothing special on the x-axis 
+    
+ 
 3) Give an application of the lesson for your area of study.
 
 I plot data for differnt countries all of the time, so I was actually using 
@@ -15,3 +28,5 @@ I plot data for differnt countries all of the time, so I was actually using
 4) Give an extension to the material that you would like to see.
 
 More detail/working with "facet"
+
+There are more examples coming!

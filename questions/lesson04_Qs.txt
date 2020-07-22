@@ -14,3 +14,5 @@ I liked messing withthe themes. I typically don't pay attention to them and go w
 
 What are the differnt text families again? Is there a link or resource for the different fonts available?
 Something similar to the R Colors document since I don't know what "mono" font looks like off the top of my head.
+
+If you are in Microsoft Word, the text families is the same as the font list. If the font exists in Word then you can theoretically use it in R.  But, using anything beyond the 4 or 5 fonts in R is quite challenging. I have not found a reasonable way to teach this yet...

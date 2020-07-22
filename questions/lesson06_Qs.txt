@@ -6,10 +6,13 @@ Very comfortable
 
 Figuring out the coordinates of the annotation always gives me trouble and I do a lot of trial and error.
 
+Yeah, even when you get coordinates right, the spacing can get awkward! 
+
 3) Give an application of the lesson for your area of study.
 
 Useful for creating visualization categories/directions for mapping, not just boxpltos.
 
 4) Give an extension to the material that you would like to see.
 
-Something other than boxplot
+Something other than boxplot  
+Lesson 8 move on to other material...
