@@ -1,0 +1,18 @@
+1) What was your level of comfort with the lesson/application?
+
+Pretty comfortable.
+
+2) What areas of the lesson/application confused or still confuses you?
+
+There was no "season" variable in the df so the part 2 plot did not work for me.
+I also struggled a little with the weather type vector as well and had to rely on the answer key a lot more than previous lessons
+
+3) Give an application of the lesson for your area of study.
+
+Helpful for displaying multiple categories in one bar plot, and will likely use.
+
+4) Give an extension to the material that you would like to see.
+
+Do you have a good resource for the different ggplot parameters? Or does it just come with experience?
+For example, I would not have known how to but the bars side by side using the code w/o exntensive googling:
+ position=after_stat(position_nudge(x=-0.2))
