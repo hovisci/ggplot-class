@@ -1,0 +1,17 @@
+* Sorry I'm just uploading these now. Life things distracted me and I forgot to do it over the weekend *
+
+1) What was your level of comfort with the lesson/application?
+
+Very comfortable.
+
+2) What areas of the lesson/application confused or still confuses you?
+
+Nothing really. I thought the lesson/app were pretty clear.
+
+3) Give an application of the lesson for your area of study.
+
+Not sure if I will use this since the text looks really busy, but I might if I am working with a smaller dataset.
+
+4) Give an extension to the material that you would like to see.
+
+None specific to text plots but a gradient visualization that I'm interested in is heatmaps. 
