@@ -1,0 +1,18 @@
+1) What was your level of comfort with the lesson/application?
+
+Moderate. I've used the grid function before but only with 2 plots.
+
+2) What areas of the lesson/application confused or still confuses you?
+
+I struggled with understanding how to use matrices to detremine the panel layout. 
+For example, in the last plot, is there a way to center the middle plot on the right?
+Right now it's not the most attractive layout.
+
+3) Give an application of the lesson for your area of study.
+
+I have used this before to show differences of land cover between to time points.
+
+4) Give an extension to the material that you would like to see.
+
+It would be cool to create a animation of the changes. I'm looking forward to learning that. 
+
