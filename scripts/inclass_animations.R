@@ -16,9 +16,9 @@
     transition_states(states = season, 
                       transition_length = 1, # relative animation time (default: 1)  
                       state_length = 2,      # relative pause time (default: 1)
-                      wrap = TRUE);          # gif always wraps so this is useless
-
-  
+                     wrap = TRUE)+          # gif always wraps so this is useless
+  shadow_mark(color='red');
+  print(plot2)
   # anim_save() also take parameters from animate()
   anim_save(filename="media/anim_example1.gif",
             animation = plot2);
@@ -99,7 +99,7 @@
 library(av)
   
 anim_save(filename = "media/anim_example1.mp4",
-            animation = plot3,
+            animation = plot2,
             renderer = av_renderer(),
             nframes = 60,       # number of frames in animation
             fps = 3);           # frames per second
